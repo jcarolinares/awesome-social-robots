@@ -35,8 +35,9 @@ A list of resources, ideas, and projects to create Open Source Social Robots
 - [Human-Robot Interaction in Social Robotics](https://www.amazon.com/Human-Robot-Interaction-Social-Robotics-Takayuki/dp/1466506970)
 - [Designing Sociable Robots](https://books.google.es/books?id=402dquhxSTQC&redir_esc=y&utm_source=pocket_mylist)
 
-
-
+## [Contributing](#contributing)
+- @jcarolinares - jcarolinares - Julián Caro Linares
+- @elsatch -elsatch - César García
 
 
 
