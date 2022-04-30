@@ -40,6 +40,7 @@ Open Source Robots that are a great opportunity and inspiration to create new on
 
 - [Plen2 – Biped robot](https://github.com/plenprojectcompany/PLEN2) - Not well defined
 - [MiniPlan – Biped robot](https://github.com/GeorgeChiou/MiniPlan-V6) - Creative Commons - Attribution - Non-Commercial
+- [PettingZoo – Code and Circuit Diagrams for giving Roomba's personality](https://github.com/chaudhuryB/PettingZoo) - Not well defined
 
 ## [Books](#books)
 
