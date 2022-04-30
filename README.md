@@ -4,8 +4,10 @@ A list of resources, ideas, and projects to create Open Source Social Robots
 #### Table of Contents
 
 * [Libraries](#libraries)
-* [Open-Source Robots](#robots)
-* [Not Open-Source Robots](#not-open-robots)
+* [Robots](#robots)
+** [Open-Source Robots](#robots)
+** [Not Open-Source Robots](#not-open-robots)
+** [To do more social](#todo-more-social)
 * [Books](#books)
 * [Articles](#articles)
 * [Blogs](#blogs)
@@ -23,15 +25,20 @@ A list of resources, ideas, and projects to create Open Source Social Robots
 ### [Open-Source Robots](#open-robots)
 - [Blossom – A Handcrafted Soft Social Robot](https://github.com/hrc2/blossom-public) - MIT License
 - [ElectronBot – A desktop robot](https://github.com/peng-zhihui/ElectronBot) - GNU General Public License v3.0
-- [Plen2 – Biped robot](https://github.com/plenprojectcompany/PLEN2) - 
-- [MiniPlan – Biped robot](https://github.com/GeorgeChiou/MiniPlan-V6) - 
-
+ 
 ### [Not Open-Source Robots](#not-open-robots)
 - [Mei-A mini emotional intellect](https://grazinabockute.wixsite.com/design/mei)
 - [Jibo-The World's First Social Robot](https://jibo.com/)
 - [Moxie-Empowering Confident and Mindful Kids](https://embodied.com/)
 - [Vector-Vector, the first home robot that will steal your heart, not your data](https://www.digitaldreamlabs.com/products/vector-robot)
 
+
+### [To do more social](#todo-more-social)
+
+Open Source Robots that are a great opportunity and inspiration to create new ones or be improved to be more social
+
+- [Plen2 – Biped robot](https://github.com/plenprojectcompany/PLEN2) - Not well defined
+- [MiniPlan – Biped robot](https://github.com/GeorgeChiou/MiniPlan-V6) - Creative Commons - Attribution - Non-Commercial
 
 ## [Books](#books)
 
@@ -41,6 +48,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots
 ## [Contributing](#contributing)
 - @jcarolinares - jcarolinares - Julián Caro Linares
 - @elsatch -elsatch - César García
+- @correderadiego - correderadiego - Diego Corredera
 
 
 
