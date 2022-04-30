@@ -5,9 +5,9 @@ A list of resources, ideas, and projects to create Open Source Social Robots
 
 * [Libraries](#libraries)
 * [Robots](#robots)
- * [Open-Source Robots](#robots)
- * [Not Open-Source Robots](#not-open-robots)
- * [To do more social](#todo-more-social)
+  * [Open-Source Robots](#robots)
+  * [Not Open-Source Robots](#not-open-robots)
+  * [To do more social](#todo-more-social)
 * [Books](#books)
 * [Articles](#articles)
 * [Blogs](#blogs)
