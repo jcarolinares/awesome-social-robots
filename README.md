@@ -32,6 +32,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots
 - [Moxie-Empowering Confident and Mindful Kids](https://embodied.com/)
 - [Vector-Vector, the first home robot that will steal your heart, not your data](https://www.digitaldreamlabs.com/products/vector-robot)
 - [SkoBots-A Wearable Language Revitalization Robot for Indigenous Youths](https://www.steamconnection.org/skobots)
+- [Elli-Q-The sidekick for healthier, happier aging](https://elliq.com/)
 
 
 ### [To do more social](#todo-more-social)
