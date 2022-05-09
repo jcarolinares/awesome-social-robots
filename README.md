@@ -1,5 +1,5 @@
 # Awesome-social-robots
-A list of resources, ideas, and projects to create Open Source Social Robots
+A list of resources, ideas, and projects to create Open Source Social Robots.
 
 #### Table of Contents
 
