@@ -1,4 +1,4 @@
-# awesome-social-robots
+# Awesome-social-robots
 A list of resources, ideas, and projects to create Open Source Social Robots
 
 #### Table of Contents
@@ -8,6 +8,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots
   * [Open-Source Robots](#robots)
   * [Not Open-Source Robots](#not-open-robots)
   * [To do more social](#todo-more-social)
+  * [Virtual Pets](#virtual-pets)
 * [Books](#books)
 * [Articles](#articles)
 * [Blogs](#blogs)
@@ -42,6 +43,13 @@ Open Source Robots that are a great opportunity and inspiration to create new on
 - [Plen2 – Biped robot](https://github.com/plenprojectcompany/PLEN2) - Not well defined
 - [MiniPlan – Biped robot](https://github.com/GeorgeChiou/MiniPlan-V6) - Creative Commons - Attribution - Non-Commercial
 - [PettingZoo – Code and Circuit Diagrams for giving Roomba's personality](https://github.com/chaudhuryB/PettingZoo) - Not well defined
+
+### [Virtual Pets](#virtual-pets)
+
+Not necessary robots but Open Source virtual pets like Tamagotchi
+
+- [OpenTama: an open source reference design for MCUGotchi](http://blog.rona.fr/post/2022/04/21/OpenTama-an-open-source-reference-design-for-MCUGotchi)
+- [MCUGotchi: A Tamagotchi P1 emulator for microcontrollers](https://github.com/jcrona/mcugotchi)
 
 ## [Books](#books)
 
