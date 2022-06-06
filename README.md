@@ -21,7 +21,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 | [ESP32_Faces](https://github.com/luisllamasbinaburo/ESP32_Faces) | A library to implement faces using two 8x8 LED Matrix & a MAX7219 driver | Arduino |  GPL-3.0 License | [github](https://github.com/luisllamasbinaburo/ESP32_Faces) | Luis Llamas |
 | [Robot_eyes](https://github.com/marcos-q/Robot_eyes) | A library to implement faces on ESP32 devices | Arduino |  GPL-3.0 License | [github](https://github.com/marcos-q/Robot_eyes) | Marcos Quiléz |
 | [Spchcat](https://github.com/petewarden/spchcat) | Speech recognition tool to convert audio to text transcripts, for Linux and Raspberry Pi. | Bash |  MPL-2.0 license | [github](https://github.com/petewarden/spchcat) | Pete Warden |
-| [Stackchan](https://github.com/meganetaaan/stack-chan) | ESP32 faces and robot | Javascript |  Apache2 license | [github](https://github.com/meganetaaan/stack-chan) | Pete Warden |
+| [Stackchan](https://github.com/meganetaaan/stack-chan) | ESP32 faces and robot | Javascript |  Apache2 license | [github](https://github.com/meganetaaan/stack-chan) | Shinya Ishikawa|
 
 ## [Robots](#robots)
 
