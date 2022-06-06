@@ -31,7 +31,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 - [Blossom – A Handcrafted Soft Social Robot](https://github.com/hrc2/blossom-public) - MIT License
 - [ElectronBot – A desktop robot](https://github.com/peng-zhihui/ElectronBot) - GNU General Public License v3.0
 - [Opla Flower Companion – A desk companion robot to help you fight against daily stress and anxiety](https://create.arduino.cc/projecthub/jcarolinares/opla-flower-robot-companion-cloudgames2022-dc6229) - CC BY-NC-SA
-- [Arduino Spider Robot (Quadruped) -  ]([https://github.com/peng-zhihui/ElectronBot](https://www.instructables.com/ARDUINO-SPIDER-ROBOT-QUADRUPED/) - CC BY-NC-SA
+- [Arduino Spider Robot (Quadruped)](https://www.instructables.com/ARDUINO-SPIDER-ROBOT-QUADRUPED/) - CC BY-NC-SA
 
 
 
