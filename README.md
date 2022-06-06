@@ -20,6 +20,10 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 |:----:|:--------:|:---------:|:--------:|:----:|:----------:|
 | [ESP32_Faces](https://github.com/luisllamasbinaburo/ESP32_Faces) | A library to implement faces using two 8x8 LED Matrix & a MAX7219 driver | Arduino |  GPL-3.0 License | [github](https://github.com/luisllamasbinaburo/ESP32_Faces) | Luis Llamas |
 | [Robot_eyes](https://github.com/marcos-q/Robot_eyes) | A library to implement faces on ESP32 devices | Arduino |  GPL-3.0 License | [github](https://github.com/marcos-q/Robot_eyes) | Marcos Quiléz |
+| [Spchcat](https://github.com/petewarden/spchcat) | Speech recognition tool to convert audio to text transcripts, for Linux and Raspberry Pi. | Bash |  MPL-2.0 license | [github](https://github.com/petewarden/spchcat) | Pete Warden |
+
+
+
 
 ## [Robots](#robots)
 
@@ -27,6 +31,11 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 - [Blossom – A Handcrafted Soft Social Robot](https://github.com/hrc2/blossom-public) - MIT License
 - [ElectronBot – A desktop robot](https://github.com/peng-zhihui/ElectronBot) - GNU General Public License v3.0
 - [Opla Flower Companion – A desk companion robot to help you fight against daily stress and anxiety](https://create.arduino.cc/projecthub/jcarolinares/opla-flower-robot-companion-cloudgames2022-dc6229) - CC BY-NC-SA
+- [Arduino Spider Robot (Quadruped) -  ]([https://github.com/peng-zhihui/ElectronBot](https://www.instructables.com/ARDUINO-SPIDER-ROBOT-QUADRUPED/) - CC BY-NC-SA
+
+
+
+
  
 ### [Not Open-Source Robots](#not-open-robots)
 - [Mei-A mini emotional intellect](https://grazinabockute.wixsite.com/design/mei)
