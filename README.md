@@ -21,7 +21,6 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 | [ESP32_Faces](https://github.com/luisllamasbinaburo/ESP32_Faces) | A library to implement faces using two 8x8 LED Matrix & a MAX7219 driver | Arduino |  GPL-3.0 License | [github](https://github.com/luisllamasbinaburo/ESP32_Faces) | Luis Llamas |
 | [Robot_eyes](https://github.com/marcos-q/Robot_eyes) | A library to implement faces on ESP32 devices | Arduino |  GPL-3.0 License | [github](https://github.com/marcos-q/Robot_eyes) | Marcos Quiléz |
 | [Spchcat](https://github.com/petewarden/spchcat) | Speech recognition tool to convert audio to text transcripts, for Linux and Raspberry Pi. | Bash |  MPL-2.0 license | [github](https://github.com/petewarden/spchcat) | Pete Warden |
-| [Stackchan](https://github.com/meganetaaan/stack-chan) | ESP32 faces and robot | Javascript |  Apache2 license | [github](https://github.com/meganetaaan/stack-chan) | Shinya Ishikawa|
 | [Cozmo Eyes](https://www.instructables.com/DIY-Cozmo-Robot/) | Cozmo Eyes | C++ |  Apache2 license | [github](https://github.com/bhasju/Cozmo_eyes/blob/master/Cozmo_eyes.ino) | TNcomm|
 
 ## [Robots](#robots)
@@ -33,6 +32,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 - [Arduino Spider Robot (Quadruped)](https://www.instructables.com/ARDUINO-SPIDER-ROBOT-QUADRUPED/) - CC BY-NC-SA
 - [3D Printed WALL·E – A Handcrafted Soft Social Robot](https://wired.chillibasket.com/3d-printed-wall-e/) -  GPL-3.0 license
 - [InMoov – open Source 3D printed life-size Robot](https://inmoov.fr/) -  GCC-BY-NC
+- [Stackchan - Stack-chan is a JavaScript-driven M5Stack-embedded super-kawaii robot](https://github.com/meganetaaan/stack-chan) - Apache2 license
 
 ### [Not Open-Source Robots](#not-open-robots)
 - [Mei-A mini emotional intellect](https://grazinabockute.wixsite.com/design/mei)
@@ -67,6 +67,7 @@ Not necessary robots but Open Source virtual pets like Tamagotchi
 - @jcarolinares - jcarolinares - Julián Caro Linares
 - @elsatch -elsatch - César García
 - @correderadiego - correderadiego - Diego Corredera
+- @samuk - samuk- @permagriculture
 
 
 
