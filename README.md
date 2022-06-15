@@ -64,6 +64,13 @@ Not necessary robots but Open Source virtual pets like Tamagotchi
 - [Human-Robot Interaction in Social Robotics](https://www.amazon.com/Human-Robot-Interaction-Social-Robotics-Takayuki/dp/1466506970)
 - [Designing Sociable Robots](https://books.google.es/books?id=402dquhxSTQC&redir_esc=y&utm_source=pocket_mylist)
 
+## [Articles](#articles)
+
+A list ot articles and interviews related with social robots to inspire new open source social robots
+
+- [Dogs Obey Commands Given by Social Robots](https://spectrum.ieee.org/dogs-obey-commands-given-by-social-robots)
+
+
 ## [Contributing](#contributing)
 - @jcarolinares - jcarolinares - Julián Caro Linares
 - @elsatch -elsatch - César García
