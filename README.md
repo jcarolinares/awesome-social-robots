@@ -33,7 +33,12 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 - [3D Printed WALL·E – A Handcrafted Soft Social Robot](https://wired.chillibasket.com/3d-printed-wall-e/) -  GPL-3.0 license
 - [InMoov – open Source 3D printed life-size Robot](https://inmoov.fr/) -  GCC-BY-NC
 - [Stackchan - Stack-chan is a JavaScript-driven M5Stack-embedded super-kawaii robot](https://github.com/meganetaaan/stack-chan) - Apache2 license
-- [Cozmars (open cozmo) – Cozmars = Cozmo + Smars](https://www.thingiverse.com/thing:4657644) -  CC BY-NC-SA
+- [Cozmars (open cozmo) – Cozmars = Cozmo + Smars](https://www.thingiverse.com/thing:4657644) - CC BY-NC-SA
+- [Buddy - The 3D-Printed Arduino Social Robot ](https://create.arduino.cc/projecthub/slantconcepts/buddy-the-3d-printed-arduino-social-robot-ec3dca) - CC BY-NC-ND
+- [Reachy – This is Reachy. He is pretty unique](https://www.pollen-robotics.com/reachy/) - Apache-2.0 license (Check in detail every source)
+- [EWON - Raspberry Pi Powered Home Robot](https://www.instructables.com/EWON-Raspberry-Pi-Powered-Home-Robot/) - CC BY-NC-SA
+
+
 
 ### [Not Open-Source Robots](#not-open-robots)
 - [Mei-A mini emotional intellect](https://grazinabockute.wixsite.com/design/mei)
