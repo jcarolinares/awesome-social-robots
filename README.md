@@ -21,7 +21,10 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 | [ESP32_Faces](https://github.com/luisllamasbinaburo/ESP32_Faces) | A library to implement faces using two 8x8 LED Matrix & a MAX7219 driver | Arduino |  GPL-3.0 License | [github](https://github.com/luisllamasbinaburo/ESP32_Faces) | Luis Llamas |
 | [Robot_eyes](https://github.com/marcos-q/Robot_eyes) | A library to implement faces on ESP32 devices | Arduino |  GPL-3.0 License | [github](https://github.com/marcos-q/Robot_eyes) | Marcos Quiléz |
 | [Spchcat](https://github.com/petewarden/spchcat) | Speech recognition tool to convert audio to text transcripts, for Linux and Raspberry Pi. | Bash |  MPL-2.0 license | [github](https://github.com/petewarden/spchcat) | Pete Warden |
-| [Cozmo Eyes](https://www.instructables.com/DIY-Cozmo-Robot/) | Cozmo Eyes | C++ |  Apache2 license | [github](https://github.com/bhasju/Cozmo_eyes/blob/master/Cozmo_eyes.ino) | TNcomm|
+| [Cozmo Eyes](https://www.instructables.com/DIY-Cozmo-Robot/) | Cozmo Eyes | C++ |  Apache2 license | [github](https://github.com/bhasju/Cozmo_eyes/blob/master/Cozmo_eyes.ino) | TNcomm |
+| [Googly_Eye](https://github.com/gamblor21/Googly_Eye) | CircuitPython googly style eye for a circular display (GC9A01 driver) and a LSM9DS1 for the accelerometer | CircuitPython |  MIT license | [github](https://github.com/gamblor21/Googly_Eye) | Mark Komus |
+
+
 
 ## [Robots](#robots)
 
@@ -37,6 +40,8 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 - [Buddy - The 3D-Printed Arduino Social Robot ](https://create.arduino.cc/projecthub/slantconcepts/buddy-the-3d-printed-arduino-social-robot-ec3dca) - CC BY-NC-ND
 - [Reachy – This is Reachy. He is pretty unique](https://www.pollen-robotics.com/reachy/) - Apache-2.0 license (Check in detail every source)
 - [EWON - Raspberry Pi Powered Home Robot](https://www.instructables.com/EWON-Raspberry-Pi-Powered-Home-Robot/) - CC BY-NC-SA
+- [Alertin - A small connected device to alert you](https://github.com/akirasan/Alertin) -  MIT license
+
 
 
 
@@ -74,6 +79,7 @@ Not necessary robots but Open Source virtual pets like Tamagotchi
 A list ot articles and interviews related with social robots to inspire new open source social robots
 
 - [Dogs Obey Commands Given by Social Robots](https://spectrum.ieee.org/dogs-obey-commands-given-by-social-robots)
+- [Is It Ever OK to Bash a Robot?](https://robots4therestofus.substack.com/p/is-it-ever-ok-to-bash-a-robot)
 
 
 ## [Contributing](#contributing)
