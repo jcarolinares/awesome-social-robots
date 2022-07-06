@@ -23,6 +23,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 | [Spchcat](https://github.com/petewarden/spchcat) | Speech recognition tool to convert audio to text transcripts, for Linux and Raspberry Pi. | Bash |  MPL-2.0 license | [github](https://github.com/petewarden/spchcat) | Pete Warden |
 | [Cozmo Eyes](https://www.instructables.com/DIY-Cozmo-Robot/) | Cozmo Eyes | C++ |  Apache2 license | [github](https://github.com/bhasju/Cozmo_eyes/blob/master/Cozmo_eyes.ino) | TNcomm |
 | [Googly_Eye](https://github.com/gamblor21/Googly_Eye) | CircuitPython googly style eye for a circular display (GC9A01 driver) and a LSM9DS1 for the accelerometer | CircuitPython |  MIT license | [github](https://github.com/gamblor21/Googly_Eye) | Mark Komus |
+| [Snowboy](https://github.com/seasalt-ai/snowboy) | Snowboy Hotword Detection | Multiple languages |  Apache license | [github](https://github.com/seasalt-ai/snowboy) | Guoguo Chen |
 
 
 
