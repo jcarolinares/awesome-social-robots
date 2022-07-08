@@ -49,12 +49,15 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 
 
 ### [Not Open-Source Robots](#not-open-robots)
-- [Mei-A mini emotional intellect](https://grazinabockute.wixsite.com/design/mei)
-- [Jibo-The World's First Social Robot](https://jibo.com/)
-- [Moxie-Empowering Confident and Mindful Kids](https://embodied.com/)
-- [Vector-Vector, the first home robot that will steal your heart, not your data](https://www.digitaldreamlabs.com/products/vector-robot)
-- [SkoBots-A Wearable Language Revitalization Robot for Indigenous Youths](https://www.steamconnection.org/skobots)
-- [Elli-Q-The sidekick for healthier, happier aging](https://elliq.com/)
+- [Mei - A mini emotional intellect](https://grazinabockute.wixsite.com/design/mei)
+- [Jibo - The World's First Social Robot](https://jibo.com/)
+- [Moxie - Empowering Confident and Mindful Kids](https://embodied.com/)
+- [Vector - Vector, the first home robot that will steal your heart, not your data](https://www.digitaldreamlabs.com/products/vector-robot)
+- [SkoBots - A Wearable Language Revitalization Robot for Indigenous Youths](https://www.steamconnection.org/skobots)
+- [Elli-Q - The sidekick for healthier, happier aging](https://elliq.com/)
+- [Misa - Next generation social robot](https://www.heymisa.com/)
+
+
 
 
 ### [To do more social](#todo-more-social)
