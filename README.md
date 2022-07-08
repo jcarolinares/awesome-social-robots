@@ -42,6 +42,8 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 - [Reachy – This is Reachy. He is pretty unique](https://www.pollen-robotics.com/reachy/) - Apache-2.0 license (Check in detail every source)
 - [EWON - Raspberry Pi Powered Home Robot](https://www.instructables.com/EWON-Raspberry-Pi-Powered-Home-Robot/) - CC BY-NC-SA
 - [Alertin - A small connected device to alert you](https://github.com/akirasan/Alertin) -  MIT license
+- [High-Fivey - The Cardboard micro:bit Robot](https://learn.browndoggadgets.com/Guide/"High-Fivey"+the+Cardboard+micro:bit+Robot/260?lang=en) -  CC BY-NC-SA
+
 
 
 
