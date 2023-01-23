@@ -12,6 +12,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 * [Books](#books)
 * [Articles](#articles)
 * [Blogs](#blogs)
+* [Documentaries](#documentaries)
 * [Contributing](#contributing)
 
 ## [Libraries](#libraries)
@@ -86,6 +87,12 @@ A list ot articles and interviews related with social robots to inspire new open
 
 - [Dogs Obey Commands Given by Social Robots](https://spectrum.ieee.org/dogs-obey-commands-given-by-social-robots)
 - [Is It Ever OK to Bash a Robot?](https://robots4therestofus.substack.com/p/is-it-ever-ok-to-bash-a-robot)
+
+## [Documentaries](#documentaries)
+
+- [Good night Oppy](https://www.imdb.com/title/tt14179942/)
+
+This documentary is a superb example of how emotional connections are created between a machine and a human being
 
 
 ## [Contributing](#contributing)
