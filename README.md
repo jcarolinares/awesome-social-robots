@@ -25,6 +25,10 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 | [Cozmo Eyes](https://www.instructables.com/DIY-Cozmo-Robot/) | Cozmo Eyes | C++ |  Apache2 license | [github](https://github.com/bhasju/Cozmo_eyes/blob/master/Cozmo_eyes.ino) | TNcomm |
 | [Googly_Eye](https://github.com/gamblor21/Googly_Eye) | CircuitPython googly style eye for a circular display (GC9A01 driver) and a LSM9DS1 for the accelerometer | CircuitPython |  MIT license | [github](https://github.com/gamblor21/Googly_Eye) | Mark Komus |
 | [Snowboy](https://github.com/seasalt-ai/snowboy) | Snowboy Hotword Detection | Multiple languages |  Apache license | [github](https://github.com/seasalt-ai/snowboy) | Guoguo Chen |
+| [M5Stack Avatar MIC](https://github.com/mongonta0716/m5stack-avatar-mic) | A library to handle Audio Avatars with M5Stack Products | Arduino |  MIT license | [github](https://github.com/mongonta0716/m5stack-avatar-mic) | Takao Akaki |
+| [M5Stack Avatar](https://github.com/meganetaaan/m5stack-avatar) | A library to create avatar for M5Stack boards | Arduino |  MIT license | [github](https://github.com/meganetaaan/m5stack-avatar) | Shinya Ishikawa |
+| [Voice ChatGPT](https://github.com/nickbild/voice_chatgpt) | Voice Chat GPT unnoficial API to be used with a Raspberry Pi | Python | TBD | [github](https://github.com/nickbild/voice_chatgpt) | Nick Bild |
+
 
 
 
