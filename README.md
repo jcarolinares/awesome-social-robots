@@ -48,6 +48,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 - [EWON - Raspberry Pi Powered Home Robot](https://www.instructables.com/EWON-Raspberry-Pi-Powered-Home-Robot/) - CC BY-NC-SA
 - [Alertin - A small connected device to alert you](https://github.com/akirasan/Alertin) -  MIT license
 - [High-Fivey - The Cardboard micro:bit Robot](https://learn.browndoggadgets.com/Guide/"High-Fivey"+the+Cardboard+micro:bit+Robot/260?lang=en) -  CC BY-NC-SA
+- [Fytó - Turn Your Plant Into Pet](https://www.electromaker.io/project/view/fyto-turn-your-plant-into-pet#credits) -   GNU General Public License, version 3 or later (GPL3+)
 
 
 
