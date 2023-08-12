@@ -13,6 +13,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 * [Articles](#articles)
 * [Blogs](#blogs)
 * [Documentaries](#documentaries)
+* [Video Tutorials](#videotutorials)
 * [Contributing](#contributing)
 
 ## [Libraries](#libraries)
@@ -50,8 +51,9 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 - [High-Fivey - The Cardboard micro:bit Robot](https://learn.browndoggadgets.com/Guide/"High-Fivey"+the+Cardboard+micro:bit+Robot/260?lang=en) -  CC BY-NC-SA
 - [Fytó - Turn Your Plant Into Pet](https://www.electromaker.io/project/view/fyto-turn-your-plant-into-pet#credits) -   GNU General Public License, version 3 or later (GPL3+)
 - [Grumpy Hedgehog](https://hackaday.io/project/180123-gesturepattern-recognition-without-camera-tof) -   GNU General Public License, version 3 or later (GPL3+)
-
-
+- [Baymax Lamp - Helps You Take Medications on Time](https://www.instructables.com/Baymax-Lamp-Helps-You-Take-Medications-on-Time/) - CC BY-NC-SA
+- [Bipedal Companion Robot](https://github.com/dmt-labs/modular-biped) -  GPL-3.0 license
+- [Kayra - An easy to modify, 3D printable open-source humanoid robot evolved by the community](https://github.com/assadollahi/kayra) - BSD-3-Clause license
 
 
 
@@ -63,6 +65,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 - [SkoBots - A Wearable Language Revitalization Robot for Indigenous Youths](https://www.steamconnection.org/skobots)
 - [Elli-Q - The sidekick for healthier, happier aging](https://elliq.com/)
 - [Misa - Next generation social robot](https://www.heymisa.com/)
+- [Robotzu - Useless box robots](https://robotszu.com/handmade-toys/)
 
 
 
@@ -99,6 +102,12 @@ A list ot articles and interviews related with social robots to inspire new open
 - [Good night Oppy](https://www.imdb.com/title/tt14179942/)
 
 This documentary is a superb example of how emotional connections are created between a machine and a human being
+
+## [Video Tutorials](#videotutorials)
+
+- [Doll Blinking Eyes using Arduino UNO Board](https://youtu.be/NNyqQyhMmh8)
+
+It has some really creepy vibes but it is an interesting tutorial about how to control the blinking of a dool using coils.
 
 
 ## [Contributing](#contributing)
