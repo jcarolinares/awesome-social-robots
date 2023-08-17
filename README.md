@@ -97,11 +97,20 @@ A list ot articles and interviews related with social robots to inspire new open
 - [Dogs Obey Commands Given by Social Robots](https://spectrum.ieee.org/dogs-obey-commands-given-by-social-robots)
 - [Is It Ever OK to Bash a Robot?](https://robots4therestofus.substack.com/p/is-it-ever-ok-to-bash-a-robot)
 
+## [Blogs](#blogs)
+
+A list of blog post that can be interesting to learn how to create social robots
+
+- [Vanessa The Robot](https://www.benjaamin.com/vanessa-the-robot)
+
+  An interesting post talking about the creation of a modern animatronic.
+
 ## [Documentaries](#documentaries)
 
 - [Good night Oppy](https://www.imdb.com/title/tt14179942/)
 
 This documentary is a superb example of how emotional connections are created between a machine and a human being
+
 
 ## [Video Tutorials](#videotutorials)
 
