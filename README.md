@@ -111,6 +111,9 @@ A list of blog post that can be interesting to learn how to create social robots
 
 This documentary is a superb example of how emotional connections are created between a machine and a human being
 
+- [Retro Tech: Robots](https://youtu.be/nLeScEdf550)
+
+This short youtube video is a great example about human expectations regarding social robots and the effect that even really retro robots still have in our human minds
 
 ## [Video Tutorials](#videotutorials)
 
