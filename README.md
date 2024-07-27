@@ -13,6 +13,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 * [Articles](#articles)
 * [Blogs](#blogs)
 * [Documentaries](#documentaries)
+* [Tutorials](#tutorials)
 * [Video Tutorials](#videotutorials)
 * [Contributing](#contributing)
 
@@ -25,10 +26,14 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 | [Spchcat](https://github.com/petewarden/spchcat) | Speech recognition tool to convert audio to text transcripts, for Linux and Raspberry Pi. | Bash |  MPL-2.0 license | [github](https://github.com/petewarden/spchcat) | Pete Warden |
 | [Cozmo Eyes](https://www.instructables.com/DIY-Cozmo-Robot/) | Cozmo Eyes | C++ |  Apache2 license | [github](https://github.com/bhasju/Cozmo_eyes/blob/master/Cozmo_eyes.ino) | TNcomm |
 | [Googly_Eye](https://github.com/gamblor21/Googly_Eye) | CircuitPython googly style eye for a circular display (GC9A01 driver) and a LSM9DS1 for the accelerometer | CircuitPython |  MIT license | [github](https://github.com/gamblor21/Googly_Eye) | Mark Komus |
+| [Oled Eye Display](https://github.com/intellar/oled_eye_display) | Oled Screen Eyes Library | Arduino | Apache-2.0 license | [github](https://github.com/intellar/oled_eye_display) | Intellar |
+| [Oled Simple Animated Eye](https://github.com/SpiderMaf/PiPicoDsply/blob/main/animated-oled-eyes.py) | Simple Animated Eye | Arduino/Python | TBD | [github](https://github.com/SpiderMaf/PiPicoDsply/blob/main/animated-oled-eyes.py) | SpiderMaf |
+| [OLED-Moving-Eyes-Arduino](https://github.com/Vin-X-Mod/OLED-Moving-Eyes-Arduino) | Really good eyes animations for Arduino | Arduino | TBD | [github](https://github.com/Vin-X-Mod/OLED-Moving-Eyes-Arduino) | Vin-X-Mod |
+| [(ES) Animación de Ojos Robóticos en Arduino Uno](https://github.com/Picaio/roboteyes/) | A library to create robotic's eyes with Arduino | Arduino | TBD | [github](https://github.com/Picaio/roboteyes/) | Picaio |
 | [Snowboy](https://github.com/seasalt-ai/snowboy) | Snowboy Hotword Detection | Multiple languages |  Apache license | [github](https://github.com/seasalt-ai/snowboy) | Guoguo Chen |
 | [M5Stack Avatar MIC](https://github.com/mongonta0716/m5stack-avatar-mic) | A library to handle Audio Avatars with M5Stack Products | Arduino |  MIT license | [github](https://github.com/mongonta0716/m5stack-avatar-mic) | Takao Akaki |
 | [M5Stack Avatar](https://github.com/meganetaaan/m5stack-avatar) | A library to create avatar for M5Stack boards | Arduino |  MIT license | [github](https://github.com/meganetaaan/m5stack-avatar) | Shinya Ishikawa |
-| [Voice ChatGPT](https://github.com/nickbild/voice_chatgpt) | Voice Chat GPT unnoficial API to be used with a Raspberry Pi | Python | TBD | [github](https://github.com/nickbild/voice_chatgpt) | Nick Bild |
+| [Voice ChatGPT](https://github.com/nickbild/voice_chatgpt) | Voice Chat GPT unofficial API to be used with a Raspberry Pi | Python | TBD | [github](https://github.com/nickbild/voice_chatgpt) | Nick Bild |
 
 
 
@@ -54,7 +59,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 - [Baymax Lamp - Helps You Take Medications on Time](https://www.instructables.com/Baymax-Lamp-Helps-You-Take-Medications-on-Time/) - CC BY-NC-SA
 - [Bipedal Companion Robot](https://github.com/dmt-labs/modular-biped) -  GPL-3.0 license
 - [Kayra - An easy to modify, 3D printable open-source humanoid robot evolved by the community](https://github.com/assadollahi/kayra) - BSD-3-Clause license
-
+- [Akno - A smart, kind, and cute robot made with love and wires](https://github.com/AbdulsalamAbbod/Akno) - GPL-3.0 license
 
 
 ### [Not Open-Source Robots](#not-open-robots)
@@ -72,7 +77,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 
 ### [To do more social](#todo-more-social)
 
-Open Source Robots that are a great opportunity and inspiration to create new ones or be improved to be more social
+Open Source Robots are a great opportunity and inspiration to create new ones or be improved to be more social
 
 - [Plen2 – Biped robot](https://github.com/plenprojectcompany/PLEN2) - Not well defined
 - [MiniPlan – Biped robot](https://github.com/GeorgeChiou/MiniPlan-V6) - Creative Commons - Attribution - Non-Commercial
@@ -92,7 +97,7 @@ Not necessary robots but Open Source virtual pets like Tamagotchi
 
 ## [Articles](#articles)
 
-A list ot articles and interviews related with social robots to inspire new open source social robots
+A list of articles and interviews related to social robots to inspire new open-source social robots
 
 - [Dogs Obey Commands Given by Social Robots](https://spectrum.ieee.org/dogs-obey-commands-given-by-social-robots)
 - [Is It Ever OK to Bash a Robot?](https://robots4therestofus.substack.com/p/is-it-ever-ok-to-bash-a-robot)
@@ -113,13 +118,33 @@ This documentary is a superb example of how emotional connections are created be
 
 - [Retro Tech: Robots](https://youtu.be/nLeScEdf550)
 
-This short youtube video is a great example about human expectations regarding social robots and the effect that even really retro robots still have in our human minds
+This short YouTube video is a great example of human expectations regarding social robots and the effect that even really retro robots still have in our human minds
+
+## [Tutorials](#tutorials)
+
+- [Arduino OLED Eyes Animation for Robotics Projects](https://circuitdigest.com/microcontroller-projects/arduino-oled-eyes-animation-for-robotics-projects)
+
+A practical and interesting collection of OLED Eyes libraries to create Social Robots with Arduino
+
+- [Eye animation on OLED display with Arduino Nano](https://www.intellar.ca/blog/animated-eye-oled)
+
+Small tutorial explaining the library for eyes animations created by Interllar using an Arduino Nano and a small oled display.
+
+
 
 ## [Video Tutorials](#videotutorials)
 
 - [Doll Blinking Eyes using Arduino UNO Board](https://youtu.be/NNyqQyhMmh8)
 
 It has some really creepy vibes but it is an interesting tutorial about how to control the blinking of a dool using coils.
+
+- [Oled Moving Eyes Arduino Tutorial](https://youtu.be/rb1CdDpUVDA?si=k0JMDkZfLTfOvSX0)
+
+Really good tutorial about how to create animated eyes with Arduino.
+
+- [Robot eyes animation - Arduino Uno](https://youtu.be/fejzcSOrf9k?si=duys-ng2IhsRbUwm)
+
+Another really good tutorial about how to create eyes with Arduino.
 
 
 ## [Contributing](#contributing)
