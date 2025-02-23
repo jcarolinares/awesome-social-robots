@@ -41,6 +41,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 ## [Robots](#robots)
 
 ### [Open-Source Robots](#open-robots)
+- [Gus 2.0 – A robot that uses emotions to indicate room health](https://hackaday.io/project/202409-a-robot-that-uses-emotions-to-indicate-room-health) - CC-BY-SA
 - [Blossom – A Handcrafted Soft Social Robot](https://github.com/hrc2/blossom-public) - MIT License
 - [ElectronBot – A desktop robot](https://github.com/peng-zhihui/ElectronBot) - GNU General Public License v3.0
 - [Opla Flower Companion – A desk companion robot to help you fight against daily stress and anxiety](https://create.arduino.cc/projecthub/jcarolinares/opla-flower-robot-companion-cloudgames2022-dc6229) - CC BY-NC-SA
@@ -60,7 +61,8 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 - [Bipedal Companion Robot](https://github.com/dmt-labs/modular-biped) -  GPL-3.0 license
 - [Kayra - An easy to modify, 3D printable open-source humanoid robot evolved by the community](https://github.com/assadollahi/kayra) - BSD-3-Clause license
 - [Akno - A smart, kind, and cute robot made with love and wires](https://github.com/AbdulsalamAbbod/Akno) - GPL-3.0 license
-
+- [Study Buddy - Robot Eyes that Monitor Your Study Lighting](https://projecthub.arduino.cc/greenvariable/study-buddy-robot-eyes-that-monitor-your-study-lighting-ea59e6) - GPL3+
+- [Swervebot - 3d-Printed Lego-compatible Omnidirectional Robot](https://www.instructables.com/Swervebot-3d-Printed-Lego-compatible-Omnidirection/) - CC BY-NC-SA
 
 ### [Not Open-Source Robots](#not-open-robots)
 - [Mei - A mini emotional intellect](https://grazinabockute.wixsite.com/design/mei)
@@ -71,8 +73,8 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 - [Elli-Q - The sidekick for healthier, happier aging](https://elliq.com/)
 - [Misa - Next generation social robot](https://www.heymisa.com/)
 - [Robotzu - Useless box robots](https://robotszu.com/handmade-toys/)
-
-
+- [Pikachu's Animatronic - DIY Animatronic Pikachu](https://youtu.be/w_pKglDH2DU?si=8zmkiAbe57OLZAVY)
+- [Cardboard Robots (Not open source but free and available)](https://cardboard.lofirobot.com/)
 
 
 ### [To do more social](#todo-more-social)
@@ -101,6 +103,9 @@ A list of articles and interviews related to social robots to inspire new open-s
 
 - [Dogs Obey Commands Given by Social Robots](https://spectrum.ieee.org/dogs-obey-commands-given-by-social-robots)
 - [Is It Ever OK to Bash a Robot?](https://robots4therestofus.substack.com/p/is-it-ever-ok-to-bash-a-robot)
+- [My Parents’ Dementia Felt Like the End of Joy. Then Came the Robots](https://getpocket.com/explore/item/my-parents-dementia-felt-like-the-end-of-joy-then-came-the-robots)
+- [Olfactory Puppetry - Merging Olfaction and Puppetry to Explore The Future of Olfactory Social Robots](https://dl.acm.org/doi/pdf/10.1145/3643834.3660733)
+
 
 ## [Blogs](#blogs)
 
@@ -130,6 +135,10 @@ A practical and interesting collection of OLED Eyes libraries to create Social R
 
 Small tutorial explaining the library for eyes animations created by Interllar using an Arduino Nano and a small oled display.
 
+- [My digital cat - Blinking and making cat's noises](https://starthardware.org/en/unit-20-my-digital-cat-2-2/?utm_source=pocket_shared)
+
+Small tutorial explaining some basic Arduino code to blink LED eyes and make some cat's noises. Useful to start your own project.
+
 
 
 ## [Video Tutorials](#videotutorials)
@@ -146,6 +155,9 @@ Really good tutorial about how to create animated eyes with Arduino.
 
 Another really good tutorial about how to create eyes with Arduino.
 
+- [(ES) Creando un Tamagotchi desde cero](https://youtu.be/Vxm0A7bmEmw?si=GqbD_SvI7Z5eUt5C)
+
+A really interesting tutorial in Spanish about how to create your own Tamagotchi from scratch.
 
 ## [Contributing](#contributing)
 - @jcarolinares - jcarolinares - Julián Caro Linares
