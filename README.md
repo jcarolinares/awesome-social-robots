@@ -33,7 +33,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 | [Snowboy](https://github.com/seasalt-ai/snowboy) | Snowboy Hotword Detection | Multiple languages |  Apache license | [github](https://github.com/seasalt-ai/snowboy) | Guoguo Chen |
 | [M5Stack Avatar MIC](https://github.com/mongonta0716/m5stack-avatar-mic) | A library to handle Audio Avatars with M5Stack Products | Arduino |  MIT license | [github](https://github.com/mongonta0716/m5stack-avatar-mic) | Takao Akaki |
 | [M5Stack Avatar](https://github.com/meganetaaan/m5stack-avatar) | A library to create avatar for M5Stack boards | Arduino |  MIT license | [github](https://github.com/meganetaaan/m5stack-avatar) | Shinya Ishikawa |
-| [Voice ChatGPT](https://github.com/nickbild/voice_chatgpt) | Voice Chat GPT unofficial API to be used with a Raspberry Pi | Python | TBD | [github](https://github.com/nickbild/voice_chatgpt) | Nick Bild |
+| [Voice ChatGPT](https://github.com/nickbild/voice_chatgpt) | Voice Chat GPT unofficial API to be used with a Raspberry Pi | Python | CC BY-NC | [github](https://github.com/nickbild/voice_chatgpt) | Nick Bild |
 
 
 
