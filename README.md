@@ -21,6 +21,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 
 | Name | Features | Languages | Licenses | Code | Author |
 |:----:|:--------:|:---------:|:--------:|:----:|:----------:|
+| [IrisOLED](https://github.com/orji123/Irisoled/) | Arduino library for robotic OLED eye expressions for SSD1306 / SH1106 and other Adafruit-GFX-compatible displays | Arduino |  MIT license | [github](https://github.com/orji123/Irisoled/) | Chijindu-Orj |
 | [ESP32_Faces](https://github.com/luisllamasbinaburo/ESP32_Faces) | A library to implement faces using two 8x8 LED Matrix & a MAX7219 driver | Arduino |  GPL-3.0 License | [github](https://github.com/luisllamasbinaburo/ESP32_Faces) | Luis Llamas |
 | [Robot_eyes](https://github.com/marcos-q/Robot_eyes) | A library to implement faces on ESP32 devices | Arduino |  GPL-3.0 License | [github](https://github.com/marcos-q/Robot_eyes) | Marcos Quiléz |
 | [Spchcat](https://github.com/petewarden/spchcat) | Speech recognition tool to convert audio to text transcripts, for Linux and Raspberry Pi. | Bash |  MPL-2.0 license | [github](https://github.com/petewarden/spchcat) | Pete Warden |
@@ -41,6 +42,9 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 ## [Robots](#robots)
 
 ### [Open-Source Robots](#open-robots)
+- [Stack-chan minimal – The gachapon-sized character that talks and moves its mouth](https://www.hackster.io/uta-aoya/stack-chan-minimal-voice-in-english-c00769) - AGPL-3.0 license
+- [Wally – A new friend for oncological patients](https://www.hackster.io/ancybernetics/wally-a-new-friend-for-oncological-patients-085a40) - All resources provided
+- [Reachy Mini  – A compact, open-source humanoid robot designed to make robotics accessible](https://www.pollen-robotics.com) - AGPL-3.0 license
 - [Gus 2.0 – A robot that uses emotions to indicate room health](https://hackaday.io/project/202409-a-robot-that-uses-emotions-to-indicate-room-health) - CC-BY-SA
 - [Blossom – A Handcrafted Soft Social Robot](https://github.com/hrc2/blossom-public) - MIT License
 - [ElectronBot – A desktop robot](https://github.com/peng-zhihui/ElectronBot) - GNU General Public License v3.0
