@@ -45,8 +45,11 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 - [Stack-chan minimal – The gachapon-sized character that talks and moves its mouth](https://www.hackster.io/uta-aoya/stack-chan-minimal-voice-in-english-c00769) - AGPL-3.0 license
 - [Wally – A new friend for oncological patients](https://www.hackster.io/ancybernetics/wally-a-new-friend-for-oncological-patients-085a40) - All resources provided
 - [Reachy Mini  – A compact, open-source humanoid robot designed to make robotics accessible](https://www.pollen-robotics.com) - AGPL-3.0 license
+- [Robot Butterfly  – Robot Butterfly is a companion robot to appreciate the elegance of nature with in the outdoors!](https://github.com/RobotZwrrl/RobotButterfly) - CERN-OHL-P/MIT License/CC-BY-SA-4.0
 - [Gus 2.0 – A robot that uses emotions to indicate room health](https://hackaday.io/project/202409-a-robot-that-uses-emotions-to-indicate-room-health) - CC-BY-SA
+- [Omicro Flux – A spherical robot with precision balance](https://www.hackster.io/tichise/omicro-flux-115130#team) - All resources provideds
 - [Blossom – A Handcrafted Soft Social Robot](https://github.com/hrc2/blossom-public) - MIT License
+- [Smart Signage Sentient –  Sentient is a portable, intelligent sign that sees, thinks, and reacts](https://www.hackster.io/rahul-jeyaraj/smart-signage-sentient-c94582#code) - All resources provided
 - [ElectronBot – A desktop robot](https://github.com/peng-zhihui/ElectronBot) - GNU General Public License v3.0
 - [Opla Flower Companion – A desk companion robot to help you fight against daily stress and anxiety](https://create.arduino.cc/projecthub/jcarolinares/opla-flower-robot-companion-cloudgames2022-dc6229) - CC BY-NC-SA
 - [Arduino Spider Robot (Quadruped)](https://www.instructables.com/ARDUINO-SPIDER-ROBOT-QUADRUPED/) - CC BY-NC-SA
@@ -67,6 +70,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 - [Akno - A smart, kind, and cute robot made with love and wires](https://github.com/AbdulsalamAbbod/Akno) - GPL-3.0 license
 - [Study Buddy - Robot Eyes that Monitor Your Study Lighting](https://projecthub.arduino.cc/greenvariable/study-buddy-robot-eyes-that-monitor-your-study-lighting-ea59e6) - GPL3+
 - [Swervebot - 3d-Printed Lego-compatible Omnidirectional Robot](https://www.instructables.com/Swervebot-3d-Printed-Lego-compatible-Omnidirection/) - CC BY-NC-SA
+- [Color-Chan - A tiny tool to 'listen' to colors around you—changing how you see the world, just a little](https://www.hackster.io/yumochii/color-chan-19a0d7) - All resources provided
 
 ### [Not Open-Source Robots](#not-open-robots)
 - [Mei - A mini emotional intellect](https://grazinabockute.wixsite.com/design/mei)
@@ -78,6 +82,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 - [Misa - Next generation social robot](https://www.heymisa.com/)
 - [Robotzu - Useless box robots](https://robotszu.com/handmade-toys/)
 - [Pikachu's Animatronic - DIY Animatronic Pikachu](https://youtu.be/w_pKglDH2DU?si=8zmkiAbe57OLZAVY)
+- [Duolingos's Owl - DIY Animatronic Owl](https://youtu.be/5pYlPmRpw8I?si=9GdE0tOjRxu7PQM4)
 - [Cardboard Robots (Not open source but free and available)](https://cardboard.lofirobot.com/)
 
 
