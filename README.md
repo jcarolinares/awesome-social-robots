@@ -47,7 +47,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 - [Reachy Mini  – A compact, open-source humanoid robot designed to make robotics accessible](https://www.pollen-robotics.com) - AGPL-3.0 license
 - [Robot Butterfly  – Robot Butterfly is a companion robot to appreciate the elegance of nature with in the outdoors!](https://github.com/RobotZwrrl/RobotButterfly) - CERN-OHL-P/MIT License/CC-BY-SA-4.0
 - [Gus 2.0 – A robot that uses emotions to indicate room health](https://hackaday.io/project/202409-a-robot-that-uses-emotions-to-indicate-room-health) - CC-BY-SA
-- [Omicro Flux – A spherical robot with precision balance](https://www.hackster.io/tichise/omicro-flux-115130#team) - All resources provideds
+- [Omicro Flux – A spherical robot with precision balance](https://www.hackster.io/tichise/omicro-flux-115130#team) - All resources provided
 - [Blossom – A Handcrafted Soft Social Robot](https://github.com/hrc2/blossom-public) - MIT License
 - [Smart Signage Sentient –  Sentient is a portable, intelligent sign that sees, thinks, and reacts](https://www.hackster.io/rahul-jeyaraj/smart-signage-sentient-c94582#code) - All resources provided
 - [ElectronBot – A desktop robot](https://github.com/peng-zhihui/ElectronBot) - GNU General Public License v3.0
