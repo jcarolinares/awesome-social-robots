@@ -100,6 +100,7 @@ Not necessary robots but Open Source virtual pets like Tamagotchi
 
 - [OpenTama: an open source reference design for MCUGotchi](http://blog.rona.fr/post/2022/04/21/OpenTama-an-open-source-reference-design-for-MCUGotchi)
 - [MCUGotchi: A Tamagotchi P1 emulator for microcontrollers](https://github.com/jcrona/mcugotchi)
+- [Pixel-Pets: A virtual pet ecosystem for M5Stack hardware featuring on-device Local LLM capabilities.](https://github.com/marceld23/Pixel-Pets)
 
 ## [Books](#books)
 
