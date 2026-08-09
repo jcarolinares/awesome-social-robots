@@ -35,6 +35,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 | [M5Stack Avatar MIC](https://github.com/mongonta0716/m5stack-avatar-mic) | A library to handle Audio Avatars with M5Stack Products | Arduino |  MIT license | [github](https://github.com/mongonta0716/m5stack-avatar-mic) | Takao Akaki |
 | [M5Stack Avatar](https://github.com/meganetaaan/m5stack-avatar) | A library to create avatar for M5Stack boards | Arduino |  MIT license | [github](https://github.com/meganetaaan/m5stack-avatar) | Shinya Ishikawa |
 | [Voice ChatGPT](https://github.com/nickbild/voice_chatgpt) | Voice Chat GPT unofficial API to be used with a Raspberry Pi | Python | CC BY-NC | [github](https://github.com/nickbild/voice_chatgpt) | Nick Bild |
+| Grobot_Animations | Lightweight, physics-based animation library for fluid robot eye expressions on TFT displays | Arduino / C++ | MIT license | [github](https://github.com/tanmaywankar/Grobot_Animations) | tanmay_wankar |
 
 
 
@@ -71,6 +72,12 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 - [Study Buddy - Robot Eyes that Monitor Your Study Lighting](https://projecthub.arduino.cc/greenvariable/study-buddy-robot-eyes-that-monitor-your-study-lighting-ea59e6) - GPL3+
 - [Swervebot - 3d-Printed Lego-compatible Omnidirectional Robot](https://www.instructables.com/Swervebot-3d-Printed-Lego-compatible-Omnidirection/) - CC BY-NC-SA
 - [Color-Chan - A tiny tool to 'listen' to colors around you—changing how you see the world, just a little](https://www.hackster.io/yumochii/color-chan-19a0d7) - All resources provided
+- [Power Pet](https://github.com/zakaton/MIT-Reality-Hack-2026-Webpage) – A hybrid XR and physical companion that synchronizes a VR pet in Meta Quest 3 with a responsive Arduino-powered robotic arm - MIT license
+- [Sesame](https://github.com/dorianborian/sesame-robot) – An accessible, 3D-printable ESP32 mini quadruped robot with an emotive OLED face and WiFi remote control - Apache-2.0 license
+- [A Robot Arm That Sees You](https://github.com/LucaDiLorenzo98/robotic_arm_arduino_uno_q) – An interactive robotic arm built with Arduino UNO Q & Modulino LED Matrix that recognizes human faces, displays facial expressions, and delivers gadgets - CC BY-NC-ND
+- [Xiaozhi AI Desk Buddy](https://github.com/TechTalkies/Xiaozhi-for-XiaoESP32S3) – An expressive AI desk companion built with the Seeed Xiao ESP32-S3 featuring animated eyes, dynamic mouth expressions, and voice interaction - GPL-3.0 license
+- [Transparent AI Assistant](https://www.hackster.io/news/an-ai-assistant-that-wants-you-to-see-what-makes-it-tick-3ecab6e1ea38) – A desktop AI companion built with open hardware that visualizes its internal prompt processing, reasoning loops, and status in real time - All resources provided
+- [Coglet](https://github.com/will-cogley/Coglet) – An open-source, 3D-printable desktop companion robot with 9 animated degrees of freedom, vision AI, and an expressive animatronic face - All resources provided
 
 ### [Not Open-Source Robots](#not-open-robots)
 - [Mei - A mini emotional intellect](https://grazinabockute.wixsite.com/design/mei)
@@ -101,6 +108,13 @@ Not necessary robots but Open Source virtual pets like Tamagotchi
 - [OpenTama: an open source reference design for MCUGotchi](http://blog.rona.fr/post/2022/04/21/OpenTama-an-open-source-reference-design-for-MCUGotchi)
 - [MCUGotchi: A Tamagotchi P1 emulator for microcontrollers](https://github.com/jcrona/mcugotchi)
 - [Pixel-Pets: A virtual pet ecosystem for M5Stack hardware featuring on-device Local LLM capabilities.](https://github.com/marceld23/Pixel-Pets)
+- [Esp32-Tamagotchi](https://github.com/derdacavga/Esp32-Tamagotchi): An open-source DIY Tamagotchi virtual pet built with an ESP32-C3 and ST7789 display, featuring feeding, mini-games, and custom animations.
+- [SIMBIONTE - The AI Living Companion](https://www.printables.com/model/1753184-simbionte-the-ai-living-companion-for-your-prusa-c) - A modular, animated AI companion that attaches magnetically to your 3D printer, reacts in real time to printer telemetry, and expresses its state through an OLED display. - CC BY-NC 4.0
+- [Pet2Dial](https://github.com/zzliu-coder/pet2dial) - A digital pet Codex project for the M5Stack Dial, bringing a virtual companion to your desk - MIT License
+- [Clawy](https://github.com/marcvermeeren/clawy) - A cute pixel companion for Claude Code sessions running on an M5StickC Plus 2. It tracks session states and lets you approve or deny agent actions from your pocket - MIT License
+- [ArduinoGotchi](https://github.com/GaryZ88/ArduinoGotchi) - A real Tamagotchi P1 emulator running on Arduino hardware (UNO/Nano/Micro) with an OLED screen - GPL-2.0 License
+- [Arduino Nano Tamagotchi](https://www.instructables.com/Arduino-Nano-Tamagotchi/): A step-by-step DIY guide to building a portable Tamagotchi companion using an Arduino Nano, an OLED screen, and 3D printed parts - GNU GPL v2 or later
+- [Deskbuddy 2.0](https://github.com/EDISON-SCIENCE-CORNER/DESKBUDDY-2.0) – An upgraded ESP32 desktop pet companion with enhanced OLED facial animations, touch interactions, and live Wi-Fi status updates - All resources provided
 
 ## [Books](#books)
 
