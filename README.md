@@ -115,6 +115,7 @@ Not necessary robots but Open Source virtual pets like Tamagotchi
 - [ArduinoGotchi](https://github.com/GaryZ88/ArduinoGotchi) - A real Tamagotchi P1 emulator running on Arduino hardware (UNO/Nano/Micro) with an OLED screen - GPL-2.0 License
 - [Arduino Nano Tamagotchi](https://www.instructables.com/Arduino-Nano-Tamagotchi/): A step-by-step DIY guide to building a portable Tamagotchi companion using an Arduino Nano, an OLED screen, and 3D printed parts - GNU GPL v2 or later
 - [Deskbuddy 2.0](https://github.com/EDISON-SCIENCE-CORNER/DESKBUDDY-2.0) – An upgraded ESP32 desktop pet companion with enhanced OLED facial animations, touch interactions, and live Wi-Fi status updates - All resources provided
+- [Plant Monitor Pet](https://projecthub.arduino.cc/jbruges/plant-monitor-pet-with-home-assistant-a8dc89) – An interactive Arduino Nesso N1 desktop companion featuring motion sensing, soil monitoring, animated expressions, and Home Assistant integration - GPL-3.0 license
 
 ## [Books](#books)
 
