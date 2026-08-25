@@ -78,6 +78,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 - [Xiaozhi AI Desk Buddy](https://github.com/TechTalkies/Xiaozhi-for-XiaoESP32S3) – An expressive AI desk companion built with the Seeed Xiao ESP32-S3 featuring animated eyes, dynamic mouth expressions, and voice interaction - GPL-3.0 license
 - [Transparent AI Assistant](https://www.hackster.io/news/an-ai-assistant-that-wants-you-to-see-what-makes-it-tick-3ecab6e1ea38) – A desktop AI companion built with open hardware that visualizes its internal prompt processing, reasoning loops, and status in real time - All resources provided
 - [Coglet](https://github.com/will-cogley/Coglet) – An open-source, 3D-printable desktop companion robot with 9 animated degrees of freedom, vision AI, and an expressive animatronic face - All resources provided
+- [Clawrophyll](https://github.com/SamuelAlexander/clawrophyll) – An open-source robotic planter powered by Arduino UNO Q and an AI agent, featuring animated facial expressions, a servo pincer, vision AI and soil sensors - MIT license
 
 ### [Not Open-Source Robots](#not-open-robots)
 - [Mei - A mini emotional intellect](https://grazinabockute.wixsite.com/design/mei)
