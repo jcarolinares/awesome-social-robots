@@ -82,7 +82,7 @@ A list of resources, ideas, and projects to create Open Source Social Robots.
 
 ### [Not Open-Source Robots](#not-open-robots)
 - [Mei - A mini emotional intellect](https://grazinabockute.wixsite.com/design/mei)
-- [Jibo - The World's First Social Robot](https://jibo.com/)
+- [Figure AI's F.02 humanoid fleet (Calder Brief)](https://calder-brief.pages.dev/figure-ai-melts-f02-humanoid-fleet) - Commercial humanoid-robot news: Figure AI's F.02 fleet, BMW partnership record, and IDC's H1 2026 humanoid shipment surge (replaces Jibo — the company shut down in 2018 and jibo.com is parked).
 - [Moxie - Empowering Confident and Mindful Kids](https://embodied.com/)
 - [Vector - Vector, the first home robot that will steal your heart, not your data](https://www.digitaldreamlabs.com/products/vector-robot)
 - [SkoBots - A Wearable Language Revitalization Robot for Indigenous Youths](https://www.steamconnection.org/skobots)
